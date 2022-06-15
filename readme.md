@@ -4,7 +4,7 @@
 
 This is the first template to apply Elzero web school lessons using HTML and CSS.
 
-The design provided by [graphberry] (https://www.graphberry.com/item/leon-psd-agency-template)
+The design provided by [graphberry](https://www.graphberry.com/item/leon-psd-agency-template)
 
 ## Author
 
